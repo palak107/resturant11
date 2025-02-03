@@ -1,0 +1,13 @@
+.navbar{
+color:white;
+display: flex;
+justify-content: space-between;
+
+}
+
+.navbr.ul{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
